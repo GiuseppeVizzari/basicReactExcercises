@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It represents the first examples in React for a class on [Web Applications for the course on Theory and Technology of Communication](https://elearning.unimib.it/course/info.php?id=51512).
+
+Both the code and git usage are basic teaching examples, and they do not follow software engineering best practices, they are rather simple and hopefully easy to grasp.
+
 ## Available Scripts
 
 In the project directory, you can run:
